@@ -1,0 +1,34 @@
+public:: true
+file:: ![John Allen Paulos - A Mathematician Plays the Stock Market-Basic Books (2003).pdf](../assets/John_Allen_Paulos_-_A_Mathematician_Plays_the_Stock_Market-Basic_Books_(2003)_1674982457123_0.pdf)
+
+- # Chapter 1: Anticipating Other's Anticipations
+	- Being Right vs Being Right About the Market
+		- Consider the game where each player is asked to come up with a number between 0-100 which is closest to 80% of the average
+			- Obviously the Nash equilibrium is 0
+			- ((63d63469-0a04-4779-9c00-7b422243a1e3))
+	- Common Knowledge and Market Sell-Offs
+		- Common knowledge is something that everyone knows, knows that others know it , knows that others know they know it, etc.
+		- Common knowledge can led to sudden action by a group, see the example of women in a village
+		- ((63d63659-4c6b-4b3e-960f-def8092d8a63))
+- # Chapter 2: Fear, Greed and Cognitive Illusions
+	- Confirmation Bias
+		- ((63d6383a-2e6d-491b-8e15-c964dafdc3a8))
+	- Averaging Down and Paper Losses
+		- You haven't incurred actual loss without selling, but stock does not have to bounce back
+		- And averaging down is worse since you increase your exposure to one security
+		- ((63d638b7-3953-4d91-b800-528fb56d973e))
+	- Irrational Behaviour
+		- In the ultimatum game, the rational decision is for the first player to give as little money as possible to the second player, but empirically that is not true
+		- This is because human dignity, emotions and other factors play a part
+		- ((63d63911-563a-4046-87f3-c8bedc7cc50d))
+	- Anchoring Effect
+		- Give some number for people to start with and people will guess around that value
+		- Even if we chose that number using a lucky draw in front of the participants
+		- ((63d63997-c094-471f-a6fc-21fc260c6984))
+		- Explains why "target price" plays a part (and the concepts of Support and Resistance in Technical Analysis)
+		- Why are company revenue / profits often slightly higher than analyst expectations?
+			- ((63d63a1b-6158-4517-ad6f-bada7d0c428b))
+			- because companies reverse engineer their accounts to achieve the desired level of expected profits
+	-
+		-
+			-
