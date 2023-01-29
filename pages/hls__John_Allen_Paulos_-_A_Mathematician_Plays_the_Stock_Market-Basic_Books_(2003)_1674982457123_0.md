@@ -52,3 +52,8 @@ file-path:: ../assets/John_Allen_Paulos_-_A_Mathematician_Plays_the_Stock_Market
   hl-page:: 32
   hl-color:: yellow
   id:: 63d67af8-e1c4-4582-8379-79d24b77d545
+- The Legend of the Man in the Green Bathrobe
+  ls-type:: annotation
+  hl-page:: 34
+  hl-color:: yellow
+  id:: 63d67be5-e9df-4e28-9fe2-aa8546a165a6

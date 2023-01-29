@@ -37,7 +37,9 @@ file:: ![A Mathematician Plays the Stock Market](../assets/John_Allen_Paulos_-_A
 		- ((63d67af8-e1c4-4582-8379-79d24b77d545))
 	- Minimizing Possible Regret (or Loss Aversion)
 		- This explains why people are unwilling to exchange lottery tickets with friends (though they are same EV).
-		- Also explains why some people are willing to take on more risk in order to avoid losses
-	-
+		- Also explains why some people are willing to take on more risk in order to avoid losses (e.g. covering up of scandals etc.)
+	- Mental Accounts
+		- ((63d67be5-e9df-4e28-9fe2-aa8546a165a6))
+		-
 	-
 		-
