@@ -3,11 +3,11 @@ file:: ![A Mathematician Plays the Stock Market](../assets/John_Allen_Paulos_-_A
 tags:: book, finance, stock market, biases, reading, summary
 
 - # Chapter 1: Anticipating Other's Anticipations
-	- Being Right vs Being Right About the Market
+	- Being Right vs Being Right About the Market #interesting
 		- Consider the game where each player is asked to come up with a number between 0-100 which is closest to 80% of the average
 			- Obviously the Nash equilibrium is 0
 			- ((63d63469-0a04-4779-9c00-7b422243a1e3))
-	- Common Knowledge and Market Sell-Offs
+	- Common Knowledge and Market Sell-Offs #interesting
 		- Common knowledge is something that everyone knows, knows that others know it , knows that others know they know it, etc.
 		- Common knowledge can led to sudden action by a group, see the example of women in a village
 		- ((63d63659-4c6b-4b3e-960f-def8092d8a63))
@@ -22,7 +22,7 @@ tags:: book, finance, stock market, biases, reading, summary
 		- In the ultimatum game, the rational decision is for the first player to give as little money as possible to the second player, but empirically that is not true
 		- This is because human dignity, emotions and other factors play a part
 		- ((63d63911-563a-4046-87f3-c8bedc7cc50d))
-	- [[Anchoring Effect]]
+	- [[Anchoring Effect]] #interesting
 		- Give some number for people to start with and people will guess around that value
 		- Even if we chose that number using a lucky draw in front of the participants
 		- ((63d63997-c094-471f-a6fc-21fc260c6984))
@@ -30,16 +30,16 @@ tags:: book, finance, stock market, biases, reading, summary
 		- Why are company revenue / profits often slightly higher than analyst expectations?
 			- ((63d63a1b-6158-4517-ad6f-bada7d0c428b))
 			- because companies reverse engineer their accounts to achieve the desired level of expected profits
-	- [[Availability Error]]
+	- [[Availability Error]] #interesting
 		- ((63d67a83-ecde-4681-a6a1-edc93becc04a))
 	- [[Status Quo Bias]]
 		- ((63d67ae4-c0ba-4565-b22e-86e25707549b))
-	- [[Endowment Effect]] #interesting #theory
+	- [[Endowment Effect]] #interesting
 		- ((63d67af8-e1c4-4582-8379-79d24b77d545))
-	- Minimizing Possible Regret (or Loss Aversion) #interesting #theory
+	- Minimizing Possible Regret (or Loss Aversion) #interesting
 		- This explains why people are unwilling to exchange lottery tickets with friends (though they are same EV).
 		- Also explains why some people are willing to take on more risk in order to avoid losses (e.g. covering up of scandals etc.)
-	- [[Mental Accounts]] #interesting #theory
+	- [[Mental Accounts]] #interesting
 		- ((63d67be5-e9df-4e28-9fe2-aa8546a165a6))
 		- ((63d67c0d-e81a-41a3-9b1e-bad37f89ba20))((63d67c11-fe7f-4153-8964-4c0625fda432))
 	- Confusing P(A|B) and P(B|A)
@@ -61,19 +61,19 @@ tags:: book, finance, stock market, biases, reading, summary
 		- Support: comes from people who did not buy when stock last dropped to a certain price. They would rush to buy the stock when it falls to that price again
 	- [Parrondo's paradox](https://en.wikipedia.org/wiki/Parrondo%27s_paradox)
 		- A combination of losing strategies can become a winning strategy
-	- Sunk Cost Paradox #interesting #theory
+	- Sunk Cost Paradox #interesting
 		- ((63d68107-f565-4d59-b0c5-20d9ba7f9f8a))
 		- Explains why in a bubble economy acquisitions are often way overpriced
 - # Chapter 4: Chance and Efficient Markets
 	- ((63d6815c-e802-4567-9bb9-427e725e469e))
 		- [[Full House: The Spread of Excellence from Plato to Darwin]] #book #reading #maybe
-	- Gambler's Fallacy #interesting #theory
+	- Gambler's Fallacy #interesting
 		- ((63d6822a-6259-42e9-9d0e-a84f8811f7b4))
 		- Obviously, since the coin flips do not have memory
 	- Underestimating the Probability of Consecutive Wins
 		- ((63d68271-3dd7-4f03-99a1-c86d248588d4))
 		- Also leads to a a series of easy scams where people claim to be able to predict stock moves by binary search (sending random direction to half the subscribers every time, only keep the ones which received correct predictions)
-	- Benford's Law #interesting #theory
+	- Benford's Law #interesting
 	-
 	-
 	-
