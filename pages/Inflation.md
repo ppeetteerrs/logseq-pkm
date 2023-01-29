@@ -20,5 +20,6 @@ tags:: youtube, economy, finance, inflation, concept
 			- {{youtube-timestamp 836}} Why government spendings can boost economic growth => increase demand (people have more cash)
 			- {{youtube-timestamp 905}} Whether price increases / inflation occurs depends on whether there is surplus productivity: if there is, inflation does not happen
 				- {{youtube-timestamp 935}} Unemployment rate is a good proxy for productivity surplus (hence unemployment is negatively correlated with inflation)
-				-
+			- {{youtube-timestamp 966}} On the other hand, high job vacancies and profit margins suggests there is a higher demand for labour and can lead to inflation
+			-
 			-
