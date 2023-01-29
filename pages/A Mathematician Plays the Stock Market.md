@@ -72,7 +72,8 @@ tags:: book, finance, stock market, biases, reading, summary
 		- Obviously, since the coin flips do not have memory
 	- Underestimating the Probability of Consecutive Wins
 		- ((63d68271-3dd7-4f03-99a1-c86d248588d4))
-		- Also leads to a a series of easy scams where people claim to be able to predict stock moves by
+		- Also leads to a a series of easy scams where people claim to be able to predict stock moves by binary search (sending random direction to half the subscribers every time, only keep the ones which received correct predictions)
+	- Benford's Law #interesting #theory
 	-
 	-
 	-
