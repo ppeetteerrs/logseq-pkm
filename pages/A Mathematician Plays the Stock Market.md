@@ -43,8 +43,9 @@ file:: ![A Mathematician Plays the Stock Market](../assets/John_Allen_Paulos_-_A
 		- ((63d67c0d-e81a-41a3-9b1e-bad37f89ba20))((63d67c11-fe7f-4153-8964-4c0625fda432))
 	- Confusing P(A|B) and P(B|A)
 		- e.g. if police found a person with a gun near a murder scene, we should ask what is P(guy is innocent | he has a gun) but not P(guy has a gun | he is innocent). But we often ask the latter and come to a wrong conclusion
-	- Multiple Hypothesis Testing / Choosing from a set of hypothesis that does not include the truth
+	- Model capacity issue? (forgot the name, basically family of model does not include the underlying distribution)
 		- Classify items into two groups: things that are green before 2099-01-01 and blue afterwards (and vice versa)
-		- All
+		- All jades are green so far and we conclude that they will be blue after 2099-01-01
+		- Same for predicting stock performance
 	-
 		-
