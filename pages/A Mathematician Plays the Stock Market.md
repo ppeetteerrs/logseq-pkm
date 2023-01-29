@@ -70,6 +70,9 @@ tags:: book, finance, stock market, biases, reading, summary
 	- Gambler's Fallacy
 		- ((63d6822a-6259-42e9-9d0e-a84f8811f7b4))
 		- Obviously, since the coin flips do not have memory
+	- Underestimating the Probability of Consecutive Wins
+		- ((63d68271-3dd7-4f03-99a1-c86d248588d4))
+		- Also leads to a a series of easy scams where people claim to be able to predict stock moves by
 	-
 	-
 	-

@@ -87,3 +87,8 @@ file-path:: ../assets/John_Allen_Paulos_-_A_Mathematician_Plays_the_Stock_Market
   hl-page:: 74
   hl-color:: yellow
   id:: 63d6822a-6259-42e9-9d0e-a84f8811f7b4
+- The surprising length and frequency of consecutive runs of heads or tails is yet another lesson of penny flipping. If Henry and Tommy were to continue flipping pennies once a day, then there's a better-than-even chance that within about two months Henry will have won at least five flips in a row, as will Tommy. If they continue flipping for six years, there's a better-than-even chance that each will have won at least ten flips in a row.
+  ls-type:: annotation
+  hl-page:: 76
+  hl-color:: yellow
+  id:: 63d68271-3dd7-4f03-99a1-c86d248588d4
