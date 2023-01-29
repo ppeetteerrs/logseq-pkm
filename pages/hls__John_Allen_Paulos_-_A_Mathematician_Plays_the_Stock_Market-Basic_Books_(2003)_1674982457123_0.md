@@ -82,3 +82,8 @@ file-path:: ../assets/John_Allen_Paulos_-_A_Mathematician_Plays_the_Stock_Market
   hl-page:: 71
   hl-color:: yellow
   id:: 63d6815c-e802-4567-9bb9-427e725e469e
+- One odd and little-known fact about such a series of coin flips concerns the proportion of time that the number of heads exceeds the number of tails. It's seldom close to 50 percent!
+  ls-type:: annotation
+  hl-page:: 74
+  hl-color:: yellow
+  id:: 63d6822a-6259-42e9-9d0e-a84f8811f7b4

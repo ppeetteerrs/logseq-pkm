@@ -68,7 +68,9 @@ tags:: book, finance, stock market, biases, reading, summary
 	- ((63d6815c-e802-4567-9bb9-427e725e469e))
 		- [[Full House: The Spread of Excellence from Plato to Darwin]] #book #reading #maybe
 	- Gambler's Fallacy
-		- The distribution
+		- ((63d6822a-6259-42e9-9d0e-a84f8811f7b4))
+		- Obviously, since the coin flips do not have memory
+	-
 	-
 	-
 	-
