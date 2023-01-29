@@ -1,5 +1,5 @@
 public:: true
-file:: ![John Allen Paulos - A Mathematician Plays the Stock Market-Basic Books (2003).pdf](../assets/John_Allen_Paulos_-_A_Mathematician_Plays_the_Stock_Market-Basic_Books_(2003)_1674982457123_0.pdf)
+file:: ![A Mathematician Plays the Stock Market](../assets/John_Allen_Paulos_-_A_Mathematician_Plays_the_Stock_Market-Basic_Books_(2003)_1674982457123_0.pdf)
 
 - # Chapter 1: Anticipating Other's Anticipations
 	- Being Right vs Being Right About the Market
