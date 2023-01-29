@@ -14,4 +14,7 @@ tags:: youtube, economy, finance, inflation, concept
 		- Lowers productivity => just earn enough to survive, there is no point earning more
 		- Economy needs a complete revamp (in the process leads to rise of social unrest, rise of extremist governments etc.)
 	- {{youtube-timestamp 585}} In general inflation is negatively related to stock prices
-	-
+	- {{youtube-timestamp 649}} What leads to inflation
+		- {{youtube-timestamp 661}} Demand pull
+			- New / increase in demand => increase of production + increase of price => increase profits => cycle back
+			-
