@@ -67,8 +67,8 @@ tags:: book, finance, stock market, biases, reading, summary
 - # Chapter 4: Chance and Efficient Markets
 	- ((63d6815c-e802-4567-9bb9-427e725e469e))
 		- [[Full House: The Spread of Excellence from Plato to Darwin]] #book #reading #maybe
-	- False Patterns
-		-
+	- Gambler's Fallacy
+		- The distribution
 	-
 	-
 	-
