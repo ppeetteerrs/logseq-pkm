@@ -12,3 +12,4 @@ tags:: youtube, economy, finance, inflation, concept
 		- No one keeps any cash in their hand, spend it the moment they get it
 		- Banking, credit systems do not work anymore
 		- Lowers productivity
+		- Economy needs a complete revamp (in the process leads to rise of social unrest, rise of extreme )
