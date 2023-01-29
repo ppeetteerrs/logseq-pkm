@@ -34,12 +34,12 @@ tags:: book, finance, stock market, biases, reading, summary
 		- ((63d67a83-ecde-4681-a6a1-edc93becc04a))
 	- [[Status Quo Bias]]
 		- ((63d67ae4-c0ba-4565-b22e-86e25707549b))
-	- [[Endowment Effect]]
+	- [[Endowment Effect]] #interesting #theory
 		- ((63d67af8-e1c4-4582-8379-79d24b77d545))
-	- Minimizing Possible Regret (or Loss Aversion)
+	- Minimizing Possible Regret (or Loss Aversion) #interesting #theory
 		- This explains why people are unwilling to exchange lottery tickets with friends (though they are same EV).
 		- Also explains why some people are willing to take on more risk in order to avoid losses (e.g. covering up of scandals etc.)
-	- [[Mental Accounts]]
+	- [[Mental Accounts]] #interesting #theory
 		- ((63d67be5-e9df-4e28-9fe2-aa8546a165a6))
 		- ((63d67c0d-e81a-41a3-9b1e-bad37f89ba20))((63d67c11-fe7f-4153-8964-4c0625fda432))
 	- Confusing P(A|B) and P(B|A)
@@ -61,13 +61,13 @@ tags:: book, finance, stock market, biases, reading, summary
 		- Support: comes from people who did not buy when stock last dropped to a certain price. They would rush to buy the stock when it falls to that price again
 	- [Parrondo's paradox](https://en.wikipedia.org/wiki/Parrondo%27s_paradox)
 		- A combination of losing strategies can become a winning strategy
-	- Sunk Cost Paradox
+	- Sunk Cost Paradox #interesting #theory
 		- ((63d68107-f565-4d59-b0c5-20d9ba7f9f8a))
 		- Explains why in a bubble economy acquisitions are often way overpriced
 - # Chapter 4: Chance and Efficient Markets
 	- ((63d6815c-e802-4567-9bb9-427e725e469e))
 		- [[Full House: The Spread of Excellence from Plato to Darwin]] #book #reading #maybe
-	- Gambler's Fallacy
+	- Gambler's Fallacy #interesting #theory
 		- ((63d6822a-6259-42e9-9d0e-a84f8811f7b4))
 		- Obviously, since the coin flips do not have memory
 	- Underestimating the Probability of Consecutive Wins
