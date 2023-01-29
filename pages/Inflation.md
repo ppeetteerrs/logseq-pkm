@@ -8,4 +8,7 @@ tags:: youtube, economy, finance, inflation, concept
 	- {{youtube-timestamp 389}} Why is deflation bad
 		- Deflation encourages delayed spending
 		- Deflationary vicious cycle: e.g. Japan (of course aging population also contributes)
-	-
+	- {{youtube-timestamp 465}} Why is hyperinflation bad?
+		- No one keeps any cash in their hand, spend it the moment they get it
+		- Banking, credit systems do not work anymore
+		- Lowers productivity
