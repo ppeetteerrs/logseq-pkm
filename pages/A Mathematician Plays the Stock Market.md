@@ -51,6 +51,9 @@ tags:: book, finance, stock market, biases, reading
 	- Survivorship bias
 		- Funds performance are good because bankrupt funds where not included
 - # Chapter 3: Trends, Crowds and Waves
+	- A theory that requires constant correction and exceptions is likely incorrect
+		- ((63d67de9-5395-41df-a2b9-32bd92a22791))
+		- (sorry that's why I hated Chemistry)
 	-
 	-
 		-

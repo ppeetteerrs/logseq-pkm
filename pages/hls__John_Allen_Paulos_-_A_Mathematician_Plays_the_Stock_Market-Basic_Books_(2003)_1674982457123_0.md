@@ -67,3 +67,8 @@ file-path:: ../assets/John_Allen_Paulos_-_A_Mathematician_Plays_the_Stock_Market
   hl-page:: 35
   hl-color:: yellow
   id:: 63d67c11-fe7f-4153-8964-4c0625fda432
+- in which more and more corrections and ad hoc exceptions had to be created to make the system jibe with observation. Like most other such schemes, Elliott wave theory founders on the simple question: Why should anyone expect it to work?
+  ls-type:: annotation
+  hl-page:: 49
+  hl-color:: yellow
+  id:: 63d67de9-5395-41df-a2b9-32bd92a22791
