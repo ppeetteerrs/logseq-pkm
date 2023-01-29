@@ -1,6 +1,6 @@
 public:: true
 file:: ![A Mathematician Plays the Stock Market](../assets/John_Allen_Paulos_-_A_Mathematician_Plays_the_Stock_Market-Basic_Books_(2003)_1674982457123_0.pdf)
-tags:: book, finance, stock market, biases, reading
+tags:: book, finance, stock market, biases, reading, summary
 
 - # Chapter 1: Anticipating Other's Anticipations
 	- Being Right vs Being Right About the Market
@@ -66,7 +66,7 @@ tags:: book, finance, stock market, biases, reading
 		- Explains why in a bubble economy acquisitions are often way overpriced
 - # Chapter 4: Chance and Efficient Markets
 	- ((63d6815c-e802-4567-9bb9-427e725e469e))
-		-
+		- [[Full House: The Spread of Excellence from Plato to Darwin]] #book #reading #maybe
 	-
 	-
 	-
