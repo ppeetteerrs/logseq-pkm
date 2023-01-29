@@ -72,3 +72,8 @@ file-path:: ../assets/John_Allen_Paulos_-_A_Mathematician_Plays_the_Stock_Market
   hl-page:: 49
   hl-color:: yellow
   id:: 63d67de9-5395-41df-a2b9-32bd92a22791
+- Professor Martin Shubik has regularly auctioned off $1 to students in his classes at Yale. The bidding takes place at fifty-four intervals, and the highest bidder gets the dollar, of course, but the second highest bidder is required to pay his bid as well. Thus, if the highest bid is 504 and you are second highest at 454, the leader stands to make 504 on the deal and you stand to lose 454 on it if bidding stops. You have an incentive to up your bid to at least 554, but after you've done so the other bidder has an even bigger incentive to raise his bid as well. In this way a one dollar bill can be successfully auctioned off for two, three, four, or more dollars.
+  ls-type:: annotation
+  hl-page:: 65
+  hl-color:: yellow
+  id:: 63d68107-f565-4d59-b0c5-20d9ba7f9f8a
