@@ -76,7 +76,10 @@ tags:: book, finance, stock market, biases, reading, summary
 	- Benford's Law #interesting
 		- Distribution of distributions exhibit this pattern
 		- The frequency of the number "1" can be used to detect accounting fraud
-	- Why some people seem to know everythin
+	- Why some people seem to know everything #interesting
+		- ((63d683e5-988a-409a-b3bf-53c2acae98eb))
+	- How to pay less tips (lol)
+		-
 	-
 	-
 	-

@@ -92,3 +92,8 @@ file-path:: ../assets/John_Allen_Paulos_-_A_Mathematician_Plays_the_Stock_Market
   hl-page:: 76
   hl-color:: yellow
   id:: 63d68271-3dd7-4f03-99a1-c86d248588d4
+- When they smile and his wife rolls her eyes again, he continues. He tells them that the rabbi replied to his students with a parable. It was about a recruiter in the Tsar's army who was riding through a small town and noticed dozens of chalked circular targets on the side of a barn, each with a bullet hole through the bull's-eye. The recruiter was impressed and asked a neighbor who this perfect shooter might be. The neighbor responded, "Oh that's Shepsel, the shoemaker's son. He's a little peculiar." The enthusiastic recruiter was undeterred until the neighbor added, "You see, first Shepsel shoots and then he draws the chalk circles around the bullet hole." The rabbi grinned. "That's the way it is with me. I don't look for a parable to fit the subject. I introduce only subjects for which I have parables."
+  ls-type:: annotation
+  hl-page:: 86
+  hl-color:: yellow
+  id:: 63d683e5-988a-409a-b3bf-53c2acae98eb
