@@ -29,6 +29,7 @@ file:: ![A Mathematician Plays the Stock Market](../assets/John_Allen_Paulos_-_A
 		- Why are company revenue / profits often slightly higher than analyst expectations?
 			- ((63d63a1b-6158-4517-ad6f-bada7d0c428b))
 			- because companies reverse engineer their accounts to achieve the desired level of expected profits
-	-
+	- Availability Error
+		- ((63d67a83-ecde-4681-a6a1-edc93becc04a))
 		-
 			-

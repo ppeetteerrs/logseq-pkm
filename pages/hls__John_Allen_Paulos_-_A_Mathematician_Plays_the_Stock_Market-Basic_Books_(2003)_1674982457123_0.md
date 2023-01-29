@@ -37,3 +37,8 @@ file-path:: ../assets/John_Allen_Paulos_-_A_Mathematician_Plays_the_Stock_Market
   hl-page:: 31
   hl-color:: yellow
   id:: 63d63a1b-6158-4517-ad6f-bada7d0c428b
+- "availability error" is the inclination to view any story, whether political, personal, or financial, through the lens of a superficially similar story that is psychologically available. Thus every recent American military involvement is inevitably described somewhere as "another Vietnam."
+  ls-type:: annotation
+  hl-page:: 31
+  hl-color:: yellow
+  id:: 63d67a83-ecde-4681-a6a1-edc93becc04a
