@@ -61,6 +61,8 @@ tags:: book, finance, stock market, biases, reading
 		- Support: comes from people who did not buy when stock last dropped to a certain price. They would rush to buy the stock when it falls to that price again
 	- [Parrondo's paradox](https://en.wikipedia.org/wiki/Parrondo%27s_paradox)
 		- A combination of losing strategies can become a winning strategy
+	- Sunk Cost Paradox
+		-
 		-
 		-
 		-
