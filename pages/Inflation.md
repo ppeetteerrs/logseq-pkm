@@ -4,5 +4,5 @@ tags:: youtube, economy, finance, inflation, concept
 - # Notes
 	- {{youtube-timestamp 282}} Why is small stable inflation good?
 		- To discourage savings, encourage spending and increasing productivity
-		-
+		- A continuous redistribution of wealth
 	-
