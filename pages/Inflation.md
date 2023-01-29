@@ -30,5 +30,7 @@ tags:: youtube, economy, finance, inflation, concept
 				- {{youtube-timestamp 1067}} That's why stock market just went up when government printed money previously
 				- {{youtube-timestamp 1079}} So the US decided to just give out cash
 		- {{youtube-timestamp 1134}} Cost push
-			-
+			- increase price => reduced demand => lower productivity
+			- e.g. this year's Japan / Europe
+		-
 			-
