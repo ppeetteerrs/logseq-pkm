@@ -17,4 +17,5 @@ tags:: youtube, economy, finance, inflation, concept
 	- {{youtube-timestamp 649}} What leads to inflation
 		- {{youtube-timestamp 661}} Demand pull
 			- New / increase in demand => increase of production + increase of price => increase profits => cycle back
-			-
+			- {{youtube-timestamp 836}} Why government spendings
+				- Whether price increases / inflation occurs depends on whether there is
