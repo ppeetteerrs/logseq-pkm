@@ -27,5 +27,8 @@ tags:: youtube, economy, finance, inflation, concept
 			- {{youtube-timestamp 966}} On the other hand, high job vacancies and profit margins suggests there is a higher demand for labour and can lead to inflation
 			- {{youtube-timestamp 1019}} Central Bank printing money does not 100% lead to economic growth
 				- Central Bank can purchase financial assets / adjust interest rates: but if the money stays in the hands of corporations (e.g. goes into financial markets / banks are not giving out more loans), the money never goes into the physical economy
-				-
+				- {{youtube-timestamp 1067}} That's why stock market just went up when government printed money previously
+				- {{youtube-timestamp 1079}} So the US decided to just give out cash
+		- {{youtube-timestamp 1134}} Cost push
+			-
 			-
