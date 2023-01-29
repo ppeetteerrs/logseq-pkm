@@ -3,7 +3,6 @@ file:: ![A Mathematician Plays the Stock Market](../assets/John_Allen_Paulos_-_A
 tags:: book, finance, stock market, biases, reading, summary
 
 - > Summary: An interesting book about the lessons learnt by a Mathematician after losing a bunch of money in the stock market. Very intuitively explained some mathematical concepts behind irrational phenomenon exhibited by retail investors.
-- /quot
 - # Chapter 1: Anticipating Other's Anticipations
 	- Being Right vs Being Right About the Market #interesting
 		- Consider the game where each player is asked to come up with a number between 0-100 which is closest to 80% of the average
