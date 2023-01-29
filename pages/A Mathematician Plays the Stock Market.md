@@ -35,7 +35,9 @@ file:: ![A Mathematician Plays the Stock Market](../assets/John_Allen_Paulos_-_A
 		- ((63d67ae4-c0ba-4565-b22e-86e25707549b))
 	- Endowment Effect
 		- ((63d67af8-e1c4-4582-8379-79d24b77d545))
-	- Minimizing
-		- This also contributes to the effect where people put too much weight on "minimizing possible regret". This explains why people are unwilling to exchange lottery tickets with friends (though they are same EV).
+	- Minimizing Possible Regret (or Loss Aversion)
+		- This explains why people are unwilling to exchange lottery tickets with friends (though they are same EV).
+		- Also explains why some people are willing to take on more risk in order to avoid losses
+	-
 	-
 		-
