@@ -77,3 +77,8 @@ file-path:: ../assets/John_Allen_Paulos_-_A_Mathematician_Plays_the_Stock_Market
   hl-page:: 65
   hl-color:: yellow
   id:: 63d68107-f565-4d59-b0c5-20d9ba7f9f8a
+- That exploitable opportunities tend to gradually disappear is a general phenomenon that occurs throughout economics and in a variety of fields
+  ls-type:: annotation
+  hl-page:: 71
+  hl-color:: yellow
+  id:: 63d6815c-e802-4567-9bb9-427e725e469e

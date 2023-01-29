@@ -64,7 +64,9 @@ tags:: book, finance, stock market, biases, reading
 	- Sunk Cost Paradox
 		- ((63d68107-f565-4d59-b0c5-20d9ba7f9f8a))
 		- Explains why in a bubble economy acquisitions are often way overpriced
--
+- # Chapter 4: Chance and Efficient Markets
+	- ((63d6815c-e802-4567-9bb9-427e725e469e))
+		-
 	-
 	-
 	-
