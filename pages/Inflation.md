@@ -32,5 +32,7 @@ tags:: youtube, economy, finance, inflation, concept
 		- {{youtube-timestamp 1134}} Cost push
 			- increase price => reduced demand => lower productivity
 			- e.g. this year's Japan / Europe
-		-
+		- {{youtube-timestamp 1247}} Money Supply
+			- {{youtube-timestamp 1272}} Why did government not stop printing money when they see high inflation?
+				-
 			-
