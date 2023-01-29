@@ -1,0 +1,2 @@
+- On [[2023-01-29]] at 10:16 PM Readwise synced 1 highlight from 1 book.
+-
