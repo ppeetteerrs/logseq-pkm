@@ -32,5 +32,8 @@ file:: ![A Mathematician Plays the Stock Market](../assets/John_Allen_Paulos_-_A
 	- Availability Error
 		- ((63d67a83-ecde-4681-a6a1-edc93becc04a))
 	- Status Quo Bias
-		-
+		- ((63d67ae4-c0ba-4565-b22e-86e25707549b))
+	- Endowment Effect
+		- ((63d67af8-e1c4-4582-8379-79d24b77d545))
+	-
 		-

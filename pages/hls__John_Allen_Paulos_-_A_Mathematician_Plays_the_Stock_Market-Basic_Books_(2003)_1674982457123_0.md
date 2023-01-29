@@ -42,3 +42,13 @@ file-path:: ../assets/John_Allen_Paulos_-_A_Mathematician_Plays_the_Stock_Market
   hl-page:: 31
   hl-color:: yellow
   id:: 63d67a83-ecde-4681-a6a1-edc93becc04a
+- The "status quo bias" (these various biases are generally not independent of each other) also applies to investing. If subjects are told, for example, that they've inherited a good deal of money and then asked which of four investment options (an aggressive stock portfolio, a more balanced collection of equities, a municipal bond fund, or U.S. Treasuries) they would prefer to invest it in, the percentages choosing each are fairly evenly distributed. Surprisingly, however, if the subjects are told that they've inherited the money but it is already in the form of municipal bonds, almost half choose to keep it in bonds. It's the same with the other three investment options: Almost half elect to keep the money where it is. This inertia is part of the reason so many people sat by while not only their inheritances but their other investments dwindled away.
+  ls-type:: annotation
+  hl-page:: 32
+  hl-color:: yellow
+  id:: 63d67ae4-c0ba-4565-b22e-86e25707549b
+- The "endowment effect," another kindred bias, is an inclination to endow one's holdings with more value than they have simply because one holds them. "It's my stock and I love it."
+  ls-type:: annotation
+  hl-page:: 32
+  hl-color:: yellow
+  id:: 63d67af8-e1c4-4582-8379-79d24b77d545
