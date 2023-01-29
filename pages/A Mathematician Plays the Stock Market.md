@@ -74,8 +74,9 @@ tags:: book, finance, stock market, biases, reading, summary
 		- ((63d68271-3dd7-4f03-99a1-c86d248588d4))
 		- Also leads to a a series of easy scams where people claim to be able to predict stock moves by binary search (sending random direction to half the subscribers every time, only keep the ones which received correct predictions)
 	- Benford's Law #interesting
-		- Distribution of distributions
-		-
+		- Distribution of distributions exhibit this pattern
+		- The frequency of the number "1" can be used to detect accounting fraud
+	- Why some people seem to know everythin
 	-
 	-
 	-
