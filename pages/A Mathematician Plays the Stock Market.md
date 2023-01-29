@@ -79,7 +79,8 @@ tags:: book, finance, stock market, biases, reading, summary
 	- Why some people seem to know everything #interesting
 		- ((63d683e5-988a-409a-b3bf-53c2acae98eb))
 	- How to pay less tips (lol)
-		-
+		- ((63d68408-d6ba-49a9-be88-0ac3bf0657a4))
+	-
 	-
 	-
 	-

@@ -97,3 +97,8 @@ file-path:: ../assets/John_Allen_Paulos_-_A_Mathematician_Plays_the_Stock_Market
   hl-page:: 86
   hl-color:: yellow
   id:: 63d683e5-988a-409a-b3bf-53c2acae98eb
+- They go out to eat to celebrate and Louis, intense and cadlike as always, talks up genetically modified food and tells the cute waitress that he wants to order whatever item on the menu has the most artificial ingredients. Much to Marie's chagrin, he then involves the waitress in a classic mathematical trick by asking her to examine his three cards, one black on both sides, one red on both sides, and one black on one side and red on the other. He asks her for her cap, drops the cards into it, and tells her to pick a card, but only to look at one side of it. The side is red, and Louis notes that the card she picked couldn't possibly be the card that was black on both sides, and therefore it must be one of the other two cards—the red-red card or the red-black card. He guesses that it's the red-red card and offers to double her 15 percent tip if it's the red-black card and stiff her if it's the red-red card. He looks at Marie for approbation that is not forthcoming. The waitress accepts and loses
+  ls-type:: annotation
+  hl-page:: 87
+  hl-color:: yellow
+  id:: 63d68408-d6ba-49a9-be88-0ac3bf0657a4
