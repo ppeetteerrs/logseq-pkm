@@ -58,7 +58,8 @@ tags:: book, finance, stock market, biases, reading
 		- As a matter of definition, stock prices fluctuates above and below it's moving average, the raw stock move is by no means a buy or sell signal
 	- [[Technical Analysis / Support and Resistance]]
 		- Resistance: comes from people who did not sell when stocks was last stable around a higher price. So when the stock gets back to the same price, those people rush to lock in their pnl
-		- Support: comes from people
+		- Support: comes from people who did not buy when stock last dropped to a certain price. They would rush to buy the stock when it falls to that price again
+	-
 		-
 	-
 		-
