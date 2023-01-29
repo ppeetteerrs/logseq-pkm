@@ -1,6 +1,6 @@
 public:: true
 file:: ![A Mathematician Plays the Stock Market](../assets/John_Allen_Paulos_-_A_Mathematician_Plays_the_Stock_Market-Basic_Books_(2003)_1674982457123_0.pdf)
-tags:: a
+tags:: book, finance, stock market, biases, reading
 
 - # Chapter 1: Anticipating Other's Anticipations
 	- Being Right vs Being Right About the Market
@@ -50,7 +50,7 @@ tags:: a
 		- Same for predicting stock performance using historical returns
 	- Survivorship bias
 		- Funds performance are good because bankrupt funds where not included
-- # Chapter 3
+- # Chapter 3: Trends, Cor
 	-
 	-
 		-
