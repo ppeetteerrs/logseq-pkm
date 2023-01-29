@@ -50,7 +50,7 @@ tags:: book, finance, stock market, biases, reading
 		- Same for predicting stock performance using historical returns
 	- Survivorship bias
 		- Funds performance are good because bankrupt funds where not included
-- # Chapter 3: Trends, Cor
+- # Chapter 3: Trends, Crowds and Waves
 	-
 	-
 		-
