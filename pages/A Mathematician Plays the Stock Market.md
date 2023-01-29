@@ -31,5 +31,6 @@ file:: ![A Mathematician Plays the Stock Market](../assets/John_Allen_Paulos_-_A
 			- because companies reverse engineer their accounts to achieve the desired level of expected profits
 	- Availability Error
 		- ((63d67a83-ecde-4681-a6a1-edc93becc04a))
+	- Status Quo Bias
 		-
-			-
+		-
