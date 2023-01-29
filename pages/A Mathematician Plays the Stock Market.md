@@ -40,6 +40,7 @@ file:: ![A Mathematician Plays the Stock Market](../assets/John_Allen_Paulos_-_A
 		- Also explains why some people are willing to take on more risk in order to avoid losses (e.g. covering up of scandals etc.)
 	- Mental Accounts
 		- ((63d67be5-e9df-4e28-9fe2-aa8546a165a6))
-		-
+		- ((63d67c0d-e81a-41a3-9b1e-bad37f89ba20))((63d67c11-fe7f-4153-8964-4c0625fda432))
+	- Confusing P(A|
 	-
 		-

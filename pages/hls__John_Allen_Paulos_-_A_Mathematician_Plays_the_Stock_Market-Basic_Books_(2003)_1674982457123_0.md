@@ -57,3 +57,13 @@ file-path:: ../assets/John_Allen_Paulos_-_A_Mathematician_Plays_the_Stock_Market
   hl-page:: 34
   hl-color:: yellow
   id:: 63d67be5-e9df-4e28-9fe2-aa8546a165a6
+- It's not only in casinos and the stock market that we categorize money in odd ways and treat it differently depending
+  ls-type:: annotation
+  hl-page:: 34
+  hl-color:: yellow
+  id:: 63d67c0d-e81a-41a3-9b1e-bad37f89ba20
+- on what mental account we place it in.
+  ls-type:: annotation
+  hl-page:: 35
+  hl-color:: yellow
+  id:: 63d67c11-fe7f-4153-8964-4c0625fda432
