@@ -59,9 +59,8 @@ tags:: book, finance, stock market, biases, reading
 	- [[Technical Analysis / Support and Resistance]]
 		- Resistance: comes from people who did not sell when stocks was last stable around a higher price. So when the stock gets back to the same price, those people rush to lock in their pnl
 		- Support: comes from people who did not buy when stock last dropped to a certain price. They would rush to buy the stock when it falls to that price again
-	- > For a simpler example of how and why the paradox works, again consider two games **Game A** and **Game B**, this time with the following rules:
-		- In **Game A**, you simply lose $1 every time you play.
-		- In **Game B**, you count how much money you have left ⁠ ⁠—  if it is an even number you win $3, otherwise you lose $5.
+	-
+		-
 		-
 		-
 		-
