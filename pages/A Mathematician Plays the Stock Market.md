@@ -1,5 +1,6 @@
 public:: true
 file:: ![A Mathematician Plays the Stock Market](../assets/John_Allen_Paulos_-_A_Mathematician_Plays_the_Stock_Market-Basic_Books_(2003)_1674982457123_0.pdf)
+tags:: a
 
 - # Chapter 1: Anticipating Other's Anticipations
 	- Being Right vs Being Right About the Market
@@ -46,6 +47,10 @@ file:: ![A Mathematician Plays the Stock Market](../assets/John_Allen_Paulos_-_A
 	- Model capacity issue? (forgot the name, basically family of model does not include the underlying distribution)
 		- Classify items into two groups: things that are green before 2099-01-01 and blue afterwards (and vice versa)
 		- All jades are green so far and we conclude that they will be blue after 2099-01-01
-		- Same for predicting stock performance
+		- Same for predicting stock performance using historical returns
+	- Survivorship bias
+		- Funds performance are good because bankrupt funds where not included
+- # Chapter 3
+	-
 	-
 		-
