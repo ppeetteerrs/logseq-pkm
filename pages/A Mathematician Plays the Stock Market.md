@@ -12,7 +12,7 @@ tags:: book, finance, stock market, biases, reading
 		- Common knowledge can led to sudden action by a group, see the example of women in a village
 		- ((63d63659-4c6b-4b3e-960f-def8092d8a63))
 - # Chapter 2: Fear, Greed and Cognitive Illusions
-	- Confirmation Bias
+	- [[Confirmation Bias]]
 		- ((63d6383a-2e6d-491b-8e15-c964dafdc3a8))
 	- Averaging Down and Paper Losses
 		- You haven't incurred actual loss without selling, but stock does not have to bounce back
@@ -22,24 +22,24 @@ tags:: book, finance, stock market, biases, reading
 		- In the ultimatum game, the rational decision is for the first player to give as little money as possible to the second player, but empirically that is not true
 		- This is because human dignity, emotions and other factors play a part
 		- ((63d63911-563a-4046-87f3-c8bedc7cc50d))
-	- Anchoring Effect
+	- [[Anchoring Effect]]
 		- Give some number for people to start with and people will guess around that value
 		- Even if we chose that number using a lucky draw in front of the participants
 		- ((63d63997-c094-471f-a6fc-21fc260c6984))
-		- Explains why "target price" plays a part (and the concepts of Support and Resistance in Technical Analysis)
+		- Explains why "target price" plays a part (and the concepts of [[Technical Analysis / Support and Resistance]] in Technical Analysis)
 		- Why are company revenue / profits often slightly higher than analyst expectations?
 			- ((63d63a1b-6158-4517-ad6f-bada7d0c428b))
 			- because companies reverse engineer their accounts to achieve the desired level of expected profits
-	- Availability Error
+	- [[Availability Error]]
 		- ((63d67a83-ecde-4681-a6a1-edc93becc04a))
-	- Status Quo Bias
+	- [[Status Quo Bias]]
 		- ((63d67ae4-c0ba-4565-b22e-86e25707549b))
-	- Endowment Effect
+	- [[Endowment Effect]]
 		- ((63d67af8-e1c4-4582-8379-79d24b77d545))
 	- Minimizing Possible Regret (or Loss Aversion)
 		- This explains why people are unwilling to exchange lottery tickets with friends (though they are same EV).
 		- Also explains why some people are willing to take on more risk in order to avoid losses (e.g. covering up of scandals etc.)
-	- Mental Accounts
+	- [[Mental Accounts]]
 		- ((63d67be5-e9df-4e28-9fe2-aa8546a165a6))
 		- ((63d67c0d-e81a-41a3-9b1e-bad37f89ba20))((63d67c11-fe7f-4153-8964-4c0625fda432))
 	- Confusing P(A|B) and P(B|A)
@@ -56,7 +56,7 @@ tags:: book, finance, stock market, biases, reading
 		- (sorry that's why I hated Chemistry)
 	- Moving Averages
 		- As a matter of definition, stock prices fluctuates above and below it's moving average, the raw stock move is by no means a buy or sell signal
-	- [[Support and Resistance]]
+	- [[Technical Analysis / Support and Resistance]]
 		-
 	-
 		-
