@@ -54,6 +54,8 @@ tags:: book, finance, stock market, biases, reading
 	- A theory that requires constant correction and exceptions is likely incorrect
 		- ((63d67de9-5395-41df-a2b9-32bd92a22791))
 		- (sorry that's why I hated Chemistry)
-	-
+	- Moving Averages
+		- As a matter of definition, stock prices fluctuates above and below it's moving average, it says absolutely nothing about whether we should buy / sell the stock
+		-
 	-
 		-
