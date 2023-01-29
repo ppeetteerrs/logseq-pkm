@@ -19,5 +19,6 @@ tags:: youtube, economy, finance, inflation, concept
 			- New / increase in demand => increase of production + increase of price => increase profits => cycle back
 			- {{youtube-timestamp 836}} Why government spendings can boost economic growth => increase demand (people have more cash)
 			- {{youtube-timestamp 905}} Whether price increases / inflation occurs depends on whether there is surplus productivity: if there is, inflation does not happen
+				- {{youtube-timestamp 935}} Unemployment rate is a good proxy for productivity surplus (hence unemployment is negatively correlated with inflation)
 				-
 			-
