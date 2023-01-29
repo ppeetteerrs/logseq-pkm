@@ -5,6 +5,7 @@ tags:: youtube, economy, finance, inflation, concept
 	- {{youtube-timestamp 282}} Why is small stable inflation good?
 		- To discourage savings, encourage spending and increasing productivity
 		- A continuous redistribution of wealth
+	- {{youtube-timestamp 389}} Why is deflation bad
 		- Deflation encourages delayed spending
-	- {{youtube-timestamp 389}}
-		-
+		- Deflationary vicious cycle: e.g. Japan (of course aging population also contributes)
+	-
