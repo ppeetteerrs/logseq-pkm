@@ -35,4 +35,5 @@ tags:: youtube, economy, finance, inflation, concept
 		- {{youtube-timestamp 1247}} Money Supply
 			- {{youtube-timestamp 1272}} Why did government not stop printing money when they see high inflation?
 				- {{youtube-timestamp 1325}} Government printing money leads to inflation, then the cycle begins (increased price => lower productivity => increased cost => increased price)
-			-
+		- {{youtube-timestamp 1368}} Self-fulfilling prophecy (Expected inflation leads to inflation)
+			- (expected price increase => price increase =>)
