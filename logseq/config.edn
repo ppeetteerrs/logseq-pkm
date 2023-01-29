@@ -321,4 +321,5 @@
  :feature/enable-journals? true
  :feature/enable-flashcards? false
  :graph/settings {:journal? true}
+ :publishing/all-pages-public? true
  }
