@@ -1,15 +1,18 @@
 @import url("https://cdn.jsdelivr.net/gh/unickcheng/logseq-developer-theme@release/custom.css");
 
-@import url("https://cdn.jsdelivr.net/npm/lxgw-wenkai-lite-webfont@1.1.0/style.css");
-
-iframe[src^="https://www.youtube"] {
+@import url("https://cdn.jsdelivr.net/npm/lxgw-wenkai-lite-webfont@1.1.0/style.css") iframe[src^="https://www.youtube"] {
 	aspect-ratio: 16/9;
 	height: auto;
 }
 
 :root {
-	--ls-font-family: "Only Emoji", "Fira Code Override", "LXGW WenKai Lite", "Fira Code", ui-font, system-ui;
-	--ct-code-font-family: "Fira Code", "LXGW WenKai Lite", ui-font, system-ui !important
+	--ls-font-family: "Only Emoji", "Fira Code Override", common-font, "Fira Code", ui-font, system-ui;
+	--ct-code-font-family: "Fira Code", common-font, ui-font, system-ui !important
+}
+
+@font-face {
+	font-family: common-font;
+	src: url("https://github.com/lxgw/LxgwWenKai-Lite/releases/download/v1.250/LXGWWenKaiLite-Regular.ttf") format("TrueType")
 }
 
 @font-face {
