@@ -16,6 +16,6 @@ iframe[src^="https://www.youtube"] {
 }
 
 :root {
-    --ls-font-family: "sans-serif", common-font, "Fira Code", ui-font, system-ui;
+    --ls-font-family: "Source Sans 3 VF", common-font, "Fira Code", ui-font, system-ui;
     --ct-code-font-family: "Fira Code", common-font, ui-font, system-ui !important
 }
