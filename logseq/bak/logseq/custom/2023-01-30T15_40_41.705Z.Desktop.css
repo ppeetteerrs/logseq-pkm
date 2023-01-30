@@ -4,5 +4,5 @@ iframe[src^="https://www.youtube"] {
 }
 
 body {
-  font-variant-ligatures: contextual;
+  font-variant-ligatures: normal;
 }
