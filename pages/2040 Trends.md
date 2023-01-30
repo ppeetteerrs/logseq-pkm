@@ -14,5 +14,8 @@ tags:: future, youtube, trend, prediction, technology
 			- 3D content sharing
 			- remote medical operations
 			- IoT => smart appliances
-			- etc. #continuous #$10k
+			- etc.
+		- ```python
+		  =>
+		  ```
 	-
