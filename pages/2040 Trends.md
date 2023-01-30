@@ -15,7 +15,4 @@ tags:: future, youtube, trend, prediction, technology
 			- remote medical operations
 			- IoT => smart appliances ->
 			- etc.
-		- ```python
-		  =>
-		  ```
 	-
