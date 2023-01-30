@@ -1,0 +1,3 @@
+- [[Travel/Korea]]
+	- https://www.youtube.com/watch?v=x2CHhuO3meY&list=WL&index=4&t=598s
+-
