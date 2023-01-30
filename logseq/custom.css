@@ -2,3 +2,7 @@ iframe[src^="https://www.youtube"] {
     aspect-ratio: 16/9;
     height: auto;
 }
+
+body {
+    background-color: red;
+}

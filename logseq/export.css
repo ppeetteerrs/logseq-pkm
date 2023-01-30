@@ -1,1 +1,28 @@
 @import url("https://cdn.jsdelivr.net/gh/unickcheng/logseq-developer-theme@release/custom.css");
+
+:root {
+	--ls-font-family: apple-font, common-font, code-font, ui-font, system-ui;
+	--ct-code-font-family: code-font, common-font, ui-font, system-ui !important
+}
+
+@font-face {
+	font-family: apple-font;
+	font-style: normal;
+	font-weight: normal;
+	src: local("-apple-system"), local("BlinkMacSystemFont"), url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-regular-webfont.woff") format("woff")
+}
+
+@font-face {
+	font-family: common-font;
+	src: url("https://github.com/lxgw/LxgwWenKai-Lite/releases/download/v1.250/LXGWWenKaiLite-Regular.ttf") format("TrueType")
+}
+
+@font-face {
+	font-family: code-font;
+	src: url("https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/DejaVuSansMono/Regular/complete/DejaVu%20Sans%20Mono%20Nerd%20Font%20Complete%20Mono.ttf") format("TrueType")
+}
+
+@font-face {
+	font-family: ui-font;
+	src: local("Apple Color Emoji"), local("Segoe UI Emoji"), local("Segoe UI Symbol")
+}
