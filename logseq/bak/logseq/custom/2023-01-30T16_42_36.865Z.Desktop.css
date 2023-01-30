@@ -1,8 +1,0 @@
-iframe[src^="https://www.youtube"] {
-    aspect-ratio: 16/9;
-    height: auto;
-}
-
-.content {
-    font-family: "Fira Code"
-}

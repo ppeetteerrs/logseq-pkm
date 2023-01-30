@@ -9,6 +9,10 @@ iframe[src^="https://www.youtube"] {
     src: url("https://github.com/lxgw/LxgwWenKai-Lite/releases/download/v1.250/LXGWWenKaiLite-Regular.ttf") format("TrueType")
 }
 
+@font-face {
+    font-family: code-font;
+    src: url("https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/DejaVuSansMono/Regular/complete/DejaVu%20Sans%20Mono%20Nerd%20Font%20Complete%20Mono.ttf") format("TrueType")
+}
 
 @font-face {
     font-family: ui-font;
@@ -16,6 +20,6 @@ iframe[src^="https://www.youtube"] {
 }
 
 :root {
-    --ls-font-family: common-font, "Fira Code", ui-font, system-ui;
-    --ct-code-font-family: "Fira Code", common-font, ui-font, system-ui !important
+    --ls-font-family: common-font, code-font, ui-font, system-ui;
+    --ct-code-font-family: code-font, common-font, ui-font, system-ui !important
 }
