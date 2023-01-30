@@ -4,8 +4,8 @@ iframe[src^="https://www.youtube"] {
 }
 
 :root {
-    --ls-font-family: "Only Emoji", "Fira Code Override", common-font, "Fira Code", ui-font, system-ui;
-    --ct-code-font-family: "Fira Code", common-font, ui-font, system-ui !important
+    --ls-font-family: "Only Emoji", common-font, code-font, ui-font, system-ui;
+    --ct-code-font-family: code-font, common-font, ui-font, system-ui !important
 }
 
 html,
@@ -24,5 +24,5 @@ body {
     font-style: normal;
     font-weight: 400;
     src: url(https://fonts.gstatic.com/s/firacode/v21/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_D1sJVD7Ng.woff2) format('woff2');
-    unicode-range: U+003C-003E;
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }

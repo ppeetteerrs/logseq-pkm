@@ -5,7 +5,7 @@ iframe[src^="https://www.youtube"] {
 
 :root {
     --ls-font-family: "Only Emoji", "Fira Code Override", common-font, "Fira Code", ui-font, system-ui;
-    --ct-code-font-family: "Fira Code", common-font, ui-font, system-ui !important
+    --ct-code-font-family: code-font, common-font, ui-font, system-ui !important
 }
 
 html,
