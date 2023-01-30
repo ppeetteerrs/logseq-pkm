@@ -13,7 +13,7 @@ tags:: future, youtube, trend, prediction, technology
 			- VR etc.
 			- 3D content sharing
 			- remote medical operations
-			- IoT => smart appliances
+			- IoT => smart appliances ->
 			- etc.
 		- ```python
 		  =>

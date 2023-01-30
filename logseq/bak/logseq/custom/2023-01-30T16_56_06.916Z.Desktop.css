@@ -8,6 +8,11 @@ iframe[src^="https://www.youtube"] {
     --ct-code-font-family: "Fira Code", common-font, ui-font, system-ui !important
 }
 
+html,
+body {
+    font-variant-ligatures: normal !important;
+}
+
 @font-face {
     font-family: common-font;
     src: url("https://github.com/lxgw/LxgwWenKai-Lite/releases/download/v1.250/LXGWWenKaiLite-Regular.ttf") format("TrueType")
