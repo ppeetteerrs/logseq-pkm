@@ -8,10 +8,11 @@ tags:: future, youtube, trend, prediction, technology
 	- {{youtube-timestamp 357}} Communication Technologies
 		- We are not yet at the true 5G era
 		- The increased connectivity will make many applications possible
-			- autonomous driving (cars that can fly, )
+			- autonomous driving (cars that can fly, delivery by dron)
+				- (battery tech is a bigger issue??)
 			- VR etc.
 			- 3D content sharing
 			- remote medical operations
-			- IoT
+			- IoT => smart appliances
 			- etc.
 	-
